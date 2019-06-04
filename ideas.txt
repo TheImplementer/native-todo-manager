@@ -1,0 +1,3 @@
+- Have side menu to see completed todos
+- Manage multiple lists
+- Drag to completed/remove
